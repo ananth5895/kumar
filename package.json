@@ -1,0 +1,23 @@
+{
+  "name": "kumar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananth5895/kumar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananth5895/kumar/issues"
+  },
+  "homepage": "https://github.com/ananth5895/kumar#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
